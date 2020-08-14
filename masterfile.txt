@@ -1,1 +1,2 @@
 ini file dari master
+ini isi file dari branch qa
