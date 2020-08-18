@@ -2,3 +2,5 @@ apel
 mangga
 semangka
 melon
+anggur 
+jeruk
