@@ -2,8 +2,6 @@
 # ami-021809d9177640a20 --> ubuntu
 
 provider "aws" { 
-    access_key  = "AKIAT3ZRVOUZD5NIXIXZ"
-    secret_key = "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"
     region     = "us-west-1"
 } 
 
